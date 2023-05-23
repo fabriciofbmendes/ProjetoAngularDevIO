@@ -43,6 +43,7 @@
             "outputPath": "dist/projeto-angular-dev-io",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "aot" : true,
             "polyfills": [
               "zone.js"
             ],
